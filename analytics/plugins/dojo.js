@@ -15,6 +15,8 @@ define(["dojo/_base/lang","../_base", "dojo/_base/config", "dojo/ready"
 			}
 
 			if(config){data.djConfig = config}
+			if(config){data.djConfig = config}
+			if(config){data.djConfig = config}
 			this.addData(data);
 		}));
 	})());
